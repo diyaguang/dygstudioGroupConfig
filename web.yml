@@ -1,1 +1,3 @@
-cloud.sample.msg=from web.yml
+cloud:
+  sample:
+    msg: from web.yml
